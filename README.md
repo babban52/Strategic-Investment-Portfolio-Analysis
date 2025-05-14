@@ -52,10 +52,10 @@ A relational database was designed in **MySQL** with four core tables:
 ### 📊 Dashboard Screenshots
 
 #### Dashboard Page 1  
-![Dashboard Page 1](./101.png)  
+![Dashboard Page 1](https://github.com/babban52/Strategic-Investment-Portfolio-Analysis/blob/main/101.png)  
 
 #### Dashboard Page 2  
-![Dashboard Page 2](./102.png)
+![Dashboard Page 2](https://github.com/babban52/Strategic-Investment-Portfolio-Analysis/blob/main/102.png)
 
 ---
 
